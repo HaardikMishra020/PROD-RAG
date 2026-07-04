@@ -22,7 +22,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+DATA/
+processed_data/
 # Environment variables
 .env
 
