@@ -39,8 +39,8 @@ loguru                      # Enhanced logging for Python
 nemoguardrails              # NVIDIA NeMo Guardrails for input/output safety rails
 langchain-nvidia-ai-endpoints # LangChain integration with NVIDIA AI Endpoints
 
-# # --- LLM GATEWAY ---
-# portkey-ai                  # Portkey Gateway for unified LLM routing, fallbacks & observability
+# --- LLM GATEWAY ---
+portkey-ai                  # Portkey Gateway for unified LLM routing, fallbacks & observability
 
 # # --- EVALUATION (EVALS) ---
 # ragas                       # RAG-specific evaluation metrics (Faithfulness, Relevancy, Recall)
